@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Meiosis Simulator",
+  "description": "An educational tool for biology students to visualize and navigate through the stages of meiosis. The simulator provides clear diagrams and descriptions for each phase, allowing students to learn at their own pace.",
+  "requestFramePermissions": []
+}
